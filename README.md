@@ -27,7 +27,7 @@ By integrating real-time data monitoring, an intuitive user interface, and robus
 ### 🔧 Backend:
 - **Node.js** – A high-performance JavaScript runtime used for server-side development.
 - **Express.js** – A lightweight framework for building robust and scalable RESTful APIs.
-
+- **SQL**- Used here for storing data and adding data and structural constraints
 ## 🚀 Key Features
 - ⏳ **Real-Time ICU Bed Tracking** – Allows hospitals and patients to view up-to-date ICU bed availability.
 - 🔍 **Blood Bank Locator** – Identifies nearby blood banks with real-time blood type availability.
